@@ -4,7 +4,7 @@ displaytext: Manifesto
 layout: null
 tab: true
 order: 1
-tags: manifesto
+tags: Champions
 ---
 
 # Manifesto
