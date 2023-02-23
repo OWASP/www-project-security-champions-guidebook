@@ -24,6 +24,6 @@ The principles have been drawn from an initial series of in-depth interviews wit
 10. Anticipate personnel changes
 
 **Prefer a visual? Download your copy of our principles infographic**
-<img src="./assets/images/OWASP_Security_Champion_Manifesto.png">
+![Manifesto infographic](assets/images/OWASP_Security_Champion_Manifesto.png)
 
 Check back soon to find out more about these key principles and how to put them into practice.
