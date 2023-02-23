@@ -1,5 +1,5 @@
 ---
-title: Get involved
+title: getinvolved
 displaytext: Get involved
 layout: null
 tab: true
