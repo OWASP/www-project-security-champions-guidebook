@@ -3,4 +3,4 @@
 * [Cheyenne Seur](mailto:cheyenne.seur@gmail.com)
 * [Robin van Loon](mailto:robin.vanloon@owasp.org)
 * [Sebastiaan van der Meer](mailto:sebastiaan.vandermeer@owasp.org)
-* [Jenna Preston](mailto:jennacherise@gmail.com)
+* [Jaiya "JP" Preston](mailto:jaiya.preston@owasp.org)
