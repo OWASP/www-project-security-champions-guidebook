@@ -21,6 +21,6 @@ We are looking for more participants to take part in this exciting project. What
   - A program leader
   - A CISO or executive in an organization with experience of Security Champions programs
 
-Watch our project launch video [here](https://www.youtube.com/watch?v%3D18Zgq9qB1NA).
+Watch our project launch video [here](https://www.youtube.com/watch?v=18Zgq9qB1NA).
 
 We’d love to hear your feedback and ideas. Check out the ‘Get Involved’ tab for more details.
