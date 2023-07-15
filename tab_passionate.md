@@ -7,7 +7,7 @@ order: 3
 tags: Champions
 ---
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto1.png" /><br>The Security Champions Manifesto<br>Principle - 1: Be Passionate About Security
+  <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br><i>The Security Champions Manifesto<br>Principle - 1: Be Passionate About Security</i>
 </p>
 
 **Why**
