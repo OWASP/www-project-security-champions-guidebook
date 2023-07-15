@@ -14,8 +14,8 @@ The principles have been drawn from an initial series of in-depth interviews wit
 **The Ten Key Principles for a Successful Security Champions Program**
 1. [Be passionate about security](#div-passionate)
 2. Start with a clear vision for your program
-3. Secure management support
-4. Nominate a dedicated captain
+3. [Secure management support](#div_managementsupport)
+4. [Nominate a dedicated captain](#dedicatedcaptain)
 5. Trust your champions 
 6. Create a community
 7. Promote knowledge sharing

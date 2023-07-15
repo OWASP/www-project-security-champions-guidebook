@@ -3,7 +3,7 @@ title: getinvolved
 displaytext: Get involved
 layout: null
 tab: true
-order: 3
+order: 7
 tags: Champions
 ---
 
