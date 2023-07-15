@@ -6,6 +6,10 @@ tab: true
 order: 3
 tags: Champions
 ---
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto1.png" /><br>The Security Champions Manifesto<br>Principle - 1: Be Passionate About Security
+</p>
+
 **Why**
 
 Ensure the people involved in your security champion program are passionate about security. This passion helps to drive the program further and boost the security culture.
