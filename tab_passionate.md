@@ -25,3 +25,5 @@ Promote security top down and on all levels within your organization. Show secur
 Be sure to enable passionate champions and invest in keeping them onboard. Trigger their curiosity and offer opportunities to keep on growing no matter what level they are on. Ideally, they also drive the program forward and make sure it covers their needs.
 
 Don’t limit yourself to internal recruitment. Highlight the importance of security in your vacancies to attract passionate people that can boost the security culture. Ask candidates about their security experience and see if you can find that spark.
+
+There are lots of opportunities to spark the passion of security champions. ![This checklist](assets/artefacts/Security Champions Guide - Be Passionate About Security - Checklist.pdf) can be used to discover possible touch points and opportunities to do so.
