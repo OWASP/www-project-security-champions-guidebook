@@ -26,4 +26,4 @@ Be sure to enable passionate champions and invest in keeping them onboard. Trigg
 
 Don’t limit yourself to internal recruitment. Highlight the importance of security in your vacancies to attract passionate people that can boost the security culture. Ask candidates about their security experience and see if you can find that spark.
 
-There are lots of opportunities to spark the passion of security champions. ![This checklist](assets/artefacts/Security Champions Guide - Be Passionate About Security - Checklist.pdf) can be used to discover possible touch points and opportunities to do so.
+There are lots of opportunities to spark the passion of security champions. [This checklist](assets/artefacts/Security%20Champions%20Guide%20%2D%20Be%20Passionate%20About%20Security%20%2D%20Checklist.pdf) can be used to discover possible touch points and opportunities to do so.
