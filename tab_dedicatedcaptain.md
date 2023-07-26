@@ -1,6 +1,6 @@
 ---
 title: DedicatedCaptain
-displaytext: "4: Dedicated captain"
+displaytext: "4: Captain"
 layout: null
 tab: true
 order: 6
