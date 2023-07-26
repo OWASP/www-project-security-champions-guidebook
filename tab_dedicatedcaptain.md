@@ -3,7 +3,7 @@ title: DedicatedCaptain
 displaytext: "4: Dedicated captain"
 layout: null
 tab: true
-order: 5
+order: 6
 tags: Champions
 ---
 <p align="center">
