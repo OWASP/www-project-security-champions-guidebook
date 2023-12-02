@@ -10,11 +10,11 @@ tags: Champions
   <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br><i>The Security Champions Manifesto<br>Principle - 1: Be Passionate About Security</i>
 </p>
 
-**Why**
+**What**
 
 Ensure the people involved in your security champion program are passionate about security. This passion helps to drive the program further and boost the security culture.
 
-**What**
+**Why**
 
 Being passionate about security is crucial because it creates a mindset where security is not just a compliance requirement, but a fundamental part of how an organization operates. When employees are passionate about security, they are more likely to take ownership of security issues, be proactive about identifying potential risks, and advocate for security best practices throughout the organization.
 
