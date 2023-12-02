@@ -10,11 +10,11 @@ tags: Champions
   <img src="assets/images/OWASP Security Champions Manifesto icon3.png" /><br><i>The Security Champions Manifesto<br>Principle - 3: Secure management support</i>
 </p>
 
-**Why**
+**What**
 
 Ensure your security champion program is recognized as a formal program with a set purpose within your organization. This is achieved when you secure management support for the program.
 
-**What**
+**Why**
 
 A successful security champions program brings unmatchable security benefits to the table. It scales your security mindset and your security organization to the IT Department. Security Champions means that IT engineers are championing security. Doing so requires the IT department and other relevant departments to spend time, effort, and budget to create, nurture and enable the security champions. And this priority will conflict with other IT and Business priorities. Out of experience, we know that when priorities conflict, formalized priorities win the battle. Even the most passionate security champion will struggle to prioritize security over the expected workload. This can lead to frustrations within your security champions and will harm your security champions program.
 
