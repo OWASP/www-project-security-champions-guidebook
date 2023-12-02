@@ -10,11 +10,11 @@ tags: Champions
   <img src="assets/images/OWASP Security Champions Manifesto icon4.png" /><br><i>The Security Champions Manifesto<br>Principle - 4: Nominate a dedicated captain</i>
 </p>
 
-**Why**
+**What**
 
 Ensure you have a dedicated Captain to lead the development, implementation and continuous success of a Security Champions Program. 
 
-**What**
+**Why**
 
 Having a dedicated Captain for a Security Champions Program is important to ensure that the program has a clear strategy and roadmap and is well-organized on a continuous basis. Lack of a dedicated role for this task may lead to people doing it “on the side” while our experience and research shows that building and maintaining a Security Champion program is one that requires continuous attention. 
 
