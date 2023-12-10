@@ -3,14 +3,14 @@ title: Principles
 displaytext: "Princples"
 layout: null
 tab: true
-order: 7
+order: 2
 tags: Champions
 ---
 **The Ten Key Principles for a Successful Security Champions Program**
-1. [Be passionate about security](#1-be-passionate-about-security)
-2. [Start with a clear vision for your program](#2-start-with-a-clear-vision-for-your-program)
-3. [Secure management support](#3-secure-management-support)
-4. [Nominate a dedicated captain](#4-nominate-a-dedicated-captain)
+1. [Be passionate about security](#1.-be-passionate-about-security)
+2. [Start with a clear vision for your program](#2.-start-with-a-clear-vision-for-your-program)
+3. [Secure management support](#3.-secure-management-support)
+4. [Nominate a dedicated captain](#4.-nominate-a-dedicated-captain)
 5. [Trust your champions](#)
 6. [Create a community](#)
 7. [Promote knowledge sharing](#)
@@ -21,9 +21,8 @@ tags: Champions
 
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br><i>The Security Champions Manifesto<br>Principle - 1: Be Passionate About Security</i>
-</p>
-## 1 Be Passionate About Security ##
+  <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br>
+## 1. Be Passionate About Security ##
 
 **What**
 
@@ -46,18 +45,18 @@ There are lots of opportunities to spark the passion of security champions. [Thi
 
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon2.png" /><br><i>The Security Champions Manifesto<br>Principle - 2: Start with a clear vision for your program</i>
+  <img src="assets/images/OWASP Security Champions Manifesto icon2.png" /><br>
 </p>
-## 2 Start with a clear vision for your program ##
+## 2. Start with a clear vision for your program ##
 
 Work in progress!
 
 
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon3.png" /><br><i>The Security Champions Manifesto<br>Principle - 3: Secure management support</i>
+  <img src="assets/images/OWASP Security Champions Manifesto icon3.png" /><br>
 </p>
-## 3 Secure management support ##
+## 3. Secure management support ##
 
 **What**
 
@@ -84,9 +83,9 @@ Please see [this artifact](assets/artefacts/security%20champions%20(updated).ppt
 
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon4.png" /><br><i>The Security Champions Manifesto<br>Principle - 4: Nominate a dedicated captain</i>
+  <img src="assets/images/OWASP Security Champions Manifesto icon4.png" /><br>
 </p>
-## 4-nominate-a-dedicated-captain ##
+## 4. Nominate a dedicated captain ##
 **What**
 
 Ensure you have a dedicated Captain to lead the development, implementation and continuous success of a Security Champions Program. 

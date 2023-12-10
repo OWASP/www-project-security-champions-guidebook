@@ -1,11 +1,4 @@
----
-title: Passionate
-displaytext: "1: Passionate"
-layout: null
-tab: true
-order: 3
-tags: Champions
----
+
 <p align="center">
   <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br><i>The Security Champions Manifesto<br>Principle - 1: Be Passionate About Security</i>
 </p>
