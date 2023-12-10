@@ -1,11 +1,76 @@
+---
+title: Principles
+displaytext: "princples"
+layout: null
+tab: true
+order: 7
+tags: Champions
+---
 **The Ten Key Principles for a Successful Security Champions Program**
-1. [Be passionate about security](principle_01_passion)
-2. [Start with a clear vision for your program](principle_02_vision)
-3. [Secure management support](principle_03_management_support)
-4. [Nominate a dedicated captain](principle_04_captain)
-5. [Trust your champions](principle_05_trust)
-6. [Create a community](principle_06_community)
-7. [Promote knowledge sharing](principle_07_knowledge)
-8. [Reward responsibility](principle_08_reward)
-9. [Invest in your champions](principle_09_invest)
-10. [Anticipate personnel changes](principle_10_changes)
+1. [Be passionate about security](#1_be_passionate_about_security)
+2. [Start with a clear vision for your program](#2_start_with_a_clear_vision_for_your_program)
+3. [Secure management support](#3_secure_management_support)
+4. [Nominate a dedicated captain](#)
+5. [Trust your champions](#)
+6. [Create a community](#)
+7. [Promote knowledge sharing](#)
+8. [Reward responsibility](#)
+9. [Invest in your champions](#)
+10. [Anticipate personnel changes](#)
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br><i>The Security Champions Manifesto<br>Principle - 1: Be Passionate About Security</i>
+</p>
+## 1 Be Passionate About Security ##
+
+**What**
+
+Ensure the people involved in your security champion program are passionate about security. This passion helps to drive the program further and boost the security culture.
+
+**Why**
+
+Being passionate about security is crucial because it creates a mindset where security is not just a compliance requirement, but a fundamental part of how an organization operates. When employees are passionate about security, they are more likely to take ownership of security issues, be proactive about identifying potential risks, and advocate for security best practices throughout the organization.
+
+**How**
+
+Promote security top down and on all levels within your organization. Show security is taken seriously by management and is a key element of the DNA of the company. Then explain the importance of the security champions program within your organization. It should be clear what the program brings and what is expected of the people involved. The employees with passion for security should naturally be attracted to the program and raise their voice. Start with recruiting those volunteers and avoid assigning security champions when possible. 
+
+Be sure to enable passionate champions and invest in keeping them onboard. Trigger their curiosity and offer opportunities to keep on growing no matter what level they are on. Ideally, they also drive the program forward and make sure it covers their needs.
+
+Don’t limit yourself to internal recruitment. Highlight the importance of security in your vacancies to attract passionate people that can boost the security culture. Ask candidates about their security experience and see if you can find that spark.
+
+There are lots of opportunities to spark the passion of security champions. [This checklist](assets/artefacts/Security%20Champions%20Guide%20%2D%20Be%20Passionate%20About%20Security%20%2D%20Checklist.pdf) can be used to discover possible touch points and opportunities to do so.
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon2.png" /><br><i>The Security Champions Manifesto<br>Principle - 2: Start with a clear vision for your program</i>
+</p>
+## 2 Start with a clear vision for your program ##
+
+Work in progress!
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon3.png" /><br><i>The Security Champions Manifesto<br>Principle - 3: Secure management support</i>
+</p>
+## 3 Secure management support ##
+
+**What**
+
+Ensure your security champion program is recognized as a formal program with a set purpose within your organization. This is achieved when you secure management support for the program.
+
+**Why**
+
+A successful security champions program brings unmatchable security benefits to the table. It scales your security mindset and your security organization to the IT Department. Security Champions means that IT engineers are championing security. Doing so requires the IT department and other relevant departments to spend time, effort, and budget to create, nurture and enable the security champions. And this priority will conflict with other IT and Business priorities. Out of experience, we know that when priorities conflict, formalized priorities win the battle. Even the most passionate security champion will struggle to prioritize security over the expected workload. This can lead to frustrations within your security champions and will harm your security champions program.
+
+That is WHY we strongly advise securing management support for your security champion program. This makes the program a formalized priority for the IT Department and thus for the security champions. Security Champions can spend the needed time to improve security without the constant distraction of explaining to IT Leads, Product Owners, and middle management why time is spent on security activities.
+
+**How**
+
+Setting up a Security Champion program requires a thorough analysis of the stakeholders to get the program approved and supported. The Head of IT, to whom the security champions report, is a key stakeholder. This can be the IT department doing Application Development, the IT Department doing Infrastructure Development, or both. Besides the Head of IT, if there is a Security or CISO department, management from that department is also a stakeholder as they set the direction of security and the Security organization. There are views that Security Champions are an extension of that Security Organization. Therefore, the manager of the Security Organization is a key stakeholder in securing management support for your security champions program. Another dimension to consider is when your vision of the security champion program states that being a security champion should be included in the job description of IT Engineers. It is advised to identify HR as a stakeholder. 
+
+Once the right stakeholders are identified, it is advised to understand what is essential for them and build your security champion program case around them. For the Head of IT, this would be in the direction of utilizing IT resources optimally, delivering IT fast and with adequate security/risk levels. For the Security Organization (CISO), what makes them tick is that security processes, expectations, and governance are embedded in the champion’s model and a clear articulation of the benefits of having such a Security Champions program on top of the existing organization. Per stakeholders, the benefits should be articulated, including addressing the potential risks they see for their objectives. 
+
+Finally, the proposal of the program should be approved by each identified stakeholder, making the program a formal program.
+
+Please see [this artifact](assets/artefacts/security%20champions%20(updated).pptx) used by a financial company (bank) to build its case for formalizing the security champion program. 
+
+(p.s. In the included artifacts, clear disclaimers are included of the organization's context and why re-consideration is needed when copying and pasting the model to the user’s organization). 
