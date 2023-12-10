@@ -1,6 +1,6 @@
 ---
 title: Principles
-displaytext: "Princples"
+displaytext: "Principles"
 layout: null
 tab: true
 order: 2
@@ -22,6 +22,7 @@ tags: Champions
 
 <p align="center">
   <img src="assets/images/OWASP Security Champions Manifesto icon1.png" /><br>
+</p>
 ## 1. Be Passionate About Security ##
 
 **What**
