@@ -14,7 +14,7 @@ tags: Champions
 5. [Trust your champions](#5-trust-your-champions)
 6. [Create a community](#6-create-a-community)
 7. [Promote knowledge sharing](#7-promote-knowledge-sharing)
-8. [Reward responsibility](#8-rewards-responsibility)
+8. [Reward responsibility](#8-reward-responsibility)
 9. [Invest in your champions](#9-invest-in-your-champions)
 10. [Anticipate personnel changes](#10-anticipate-personnel-changes)
 
