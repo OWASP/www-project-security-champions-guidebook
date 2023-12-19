@@ -11,12 +11,12 @@ tags: Champions
 2. [Start with a clear vision for your program](#2-start-with-a-clear-vision-for-your-program)
 3. [Secure management support](#3-secure-management-support)
 4. [Nominate a dedicated captain](#4-nominate-a-dedicated-captain)
-5. [Trust your champions](#)
-6. [Create a community](#)
-7. [Promote knowledge sharing](#)
-8. [Reward responsibility](#)
-9. [Invest in your champions](#)
-10. [Anticipate personnel changes](#)
+5. [Trust your champions](#5-trust-your-champions)
+6. [Create a community](#6-create-a-community)
+7. [Promote knowledge sharing](#7-promote-knowledge-sharing)
+8. [Reward responsibility](#8-rewards-responsibility)
+9. [Invest in your champions](#9-invest-in-your-champions)
+10. [Anticipate personnel changes](#10-anticipate-personnel-changes)
 
 
 
@@ -50,7 +50,27 @@ There are lots of opportunities to spark the passion of security champions. [Thi
 </p>
 ## 2. Start with a clear vision for your program ##
 
-Work in progress!
+**What**
+
+A vision is defined as, “the act of power of imagination.”  When you apply vision to the future, you can create a mental picture that can be used to direct your and your organization’s actions toward achieving security. A vision of security champions program serves as a guide in achieving security in your organization and can be used to provide a sense of purpose for IT engineers doing security.
+
+**Why**
+
+Having a vision is critical for your decision-making and the long-term success of your program. It gives your program purpose, and clearly articulates the ‘why’ and ‘what’ that you want to see happen and the change you want to achieve. Without a clear end goal or destination from the outset, it will be difficult to create meaningful goals and strategies and make effective decisions.
+
+There are several angles for defining a vision for security champions. The most common angle is that of democratizing security knowledge in the development teams, removing dependencies on the central security team, and governing security in development teams.
+
+**How**
+
+A successful vision must be:
+* Imaginable: Convey a clear picture of what the future will look like. Translating this to your security champions program, you can consider drawing a security operating model with the roles and responsibilities of the security champions, dev(ops) engineers, IT Leads, Product Owner, and security organizations.<br>
+* Desirable: Appeal to the long-term interest of those who have a stake in the
+Enterprise. Translating this to your security champions program, you should consider describing the benefits of embedding security in the development team through a security champion, with mandate, knowledge, and skills to do security.<br>
+* Feasible: Describe realistic and attainable goals. For your security champions program include goals like “hours spent on security by the champion”, “training objectives of the champion”, ” the number of security champions meet-ups”, “the decrease of security risk”,  etc.<br>
+* Focused: The vision should be clear enough to provide guidance in decision-making. What are the boundaries of security champions, what are commitments towards the program by senior management and what are expectations towards security champions? Is the scope of security champions to secure the entire enterprise? What is their role within the development team? What is their role compared to that of the Security Organization?<br>
+* Communicable: A vision is easy to communicate and can be explained quickly. Don’t write several pages of vision. A picture showing how security champions are enabling your goals in security and IT development will go a long way.<br>
+
+Please note that it is not advised to create your vision in isolation. By involving as many key stakeholders as possible, you’ll enable people to take greater ownership of the vision and increase commitment. Think about IT Leads, POs, senior developers, and security leaders to be part of this vision creation process. Once the vision is in a good draft, give it a try by explaining and selling to within your organization (senior management, developer community etc).
 
 
 
@@ -117,3 +137,52 @@ A dedicated Captain can stay up-to-date on the latest information security pract
 The projects teams’ personal experience and interviews we have conducted with organizations that have Security Champions Programs have shown that leading a Security Champions program is a full-time job. In bigger organizations this may even require a small team. It is recommended to “nominate” or hire dedicated people that are passionate about this role and have the right skills set to drive it to ensure success. Having this as an “on the side job” takes away from the momentum and dedication needed to launch a successful program. Similarly, persons with security knowledge but lacking the right communication and organizational skills to drive such a program can be a factor in its lack of success. 
 
 [This job vacancy](assets/artefacts/Security%20Champions%20Guide%20%2D%20Nominate%20a%20dedicated%20Captain%20%2D%20Job%20vacancy.pdf) can be used when looking to hire a dedicated Security Champion Captain.
+
+
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon5.png" /><br>
+</p>
+## 5. Trust your champions ##
+Coming soon...
+
+
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon6.png" /><br>
+</p>
+## 6. Create a community ##
+Coming soon...
+
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon7.png" /><br>
+</p>
+## 7. Promote knowledge sharing ##
+Coming soon...
+
+
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon8.png" /><br>
+</p>
+## 8. Reward responsibility ##
+Coming soon...
+
+
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon8.png" /><br>
+</p>
+## 9. Invest in your champions ##
+Coming soon...
+
+
+
+<p align="center">
+  <img src="assets/images/OWASP Security Champions Manifesto icon10.png" /><br>
+</p>
+## 10. Anticipate personnel changes ##
+Coming soon...
+
+
