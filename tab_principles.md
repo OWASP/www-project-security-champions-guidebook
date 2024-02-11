@@ -210,6 +210,7 @@ To create a community for a security champions program, the following should be 
 </p>
 ## 7. Promote knowledge sharing ##
 **What**
+
 Invest in the education of your Security Champions and encourage knowledge sharing within and outside the company.
 
 **Why**
