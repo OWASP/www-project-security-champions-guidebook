@@ -149,7 +149,29 @@ The projects teams’ personal experience and interviews we have conducted with 
   <img src="assets/images/OWASP Security Champions Manifesto icon5.png" /><br>
 </p>
 ## 5. Trust your champions ##
-Coming soon...
+**What**
+
+Trusting your champions is key to a successful Security Champions program. They are the eyes and ears of the organization and know exactly what their department’s security needs are.
+
+**Why**
+
+The Security Champions are the experts in their working area. A security team can never achieve that level of knowledge of the applications as they are not involved in the operational work. Using their expertise to set up the Security Champions program will increase the likelihood of success.
+
+When making people responsible, it is key to allow them to understand and act according to the defined role. It will increase speed, but also increase involvement. Ideally the Security Champions co-own the program and strongly influence the direction and content. They can identify shortcomings and propose changes or give practical feedback on the matter.
+
+Teams are more likely to trust their own champions as they are “one of their own” and not an “outsider” from the Security Team. They speak the same language and understand the context. This will lead to more effective communication, better collaboration and reduced resistance to change.
+
+In summary, trust is the glue that holds a Security Champions Program together.
+
+**How**
+
+Trust is all about setting clear expectations. It should be clear to everyone involved what the Security Champions’ role is about and what their mandate is. Don’t be afraid to let your champions experiment with different approaches. Their lessons learned can be a valuable input to other departments, sharing is caring!
+
+Give your Security Champions the mandate to make decisions on security within the risk appetite of your organization. By being in control and removing inefficiencies, they can add a lot of value to their teams and increase the security adoption & awareness. Do make sure they share their approach and reasoning to make sure the Security Champions can learn from each other and give constructive feedback.This way the organization can improve security related initiatives, decision making and processes..
+
+Also involve the security champions in the processes of the core security team. Seek their input and opinions on security initiatives, policies, and practices to make them feel valued as active contributors. Use their feedback to improve the program, processes, and procedures.
+
+Measure and showcase the impact that the Security Champions and the program make. Demonstrate how their efforts have positively influenced security outcomes, highlighting the value they bring to the organization. This will build up the Security Champions’ trustworthiness and boost morale.
 
 
 
@@ -157,14 +179,48 @@ Coming soon...
   <img src="assets/images/OWASP Security Champions Manifesto icon6.png" /><br>
 </p>
 ## 6. Create a community ##
-Coming soon...
+**What**
+
+A community provides a platform for security champions to share knowledge, experiences, challenges, and best practices with each other. A community furthermore helps to foster a culture of security awareness, collaboration, and continuous learning among the security champions and their teams. A community can provide recognition, feedback, and support for the security champions.
+
+**Why**
+
+Creating an active and vibrant community of Security Champions is vital to the success of any Security Champions Program and provides an additional channel to scale the security program.
+
+**How**
+
+To create a community for a security champions program, the following should be considered:
+
+* Start by defining a clear purpose, goals, and scope of the community. This should be aligned with the vision of the security champion’s program (see pillar 2). What are the expected outcomes and benefits of the community? Define measurable success criteria and appoint a person to continuously monitor the status of success in the community. This can be the dedicated captain or one of his/her team members in case the security champions program is led by multiple individuals.
+
+* Define how the community will align with the organization’s security strategy and objectives. The dedicated captain and/or some champions will attend security strategy update sessions, or security executives will provide periodic updates in the security champions' community on strategy and execution.
+ 
+*	Establish regular communication and collaboration channels for the security champions to interact with each other and with the security team. This can include online forums, chat groups, mailing lists, social media platforms, shared workspaces that allow the security champions to ask questions, share ideas, discuss issues, provide feedback, etc.
+
+*	Organize periodic events and activities for the security champions to engage with the community and learn from each other. This can include meetups, hackathons, workshops, presentations, demos, games, quizzes, etc. that showcase security projects, achievements, challenges, solutions, etc.
+
+* Recognize and reward the security champions for their contributions and achievements. This can include certificates, badges, trophies, prizes, opportunities to speak about security topics in the name of the organization, etc. to acknowledge and appreciate the security champions’ efforts and impact on improving security in the organization. Refer to pillar 8 for more details. 
+
+* Provide group training opportunities to foster the sense of community and encourage security champions to learn from each other. A security champion with a lot of knowledge in a specific area can serve as a teacher to others in the community. They can develop (online) courses, workshops, webinars, podcasts, newsletters, blogs, etc for the security champions community. The dedicated captain has a big role in enabling this and providing the resources necessary to achieve this.
+
 
 
 <p align="center">
   <img src="assets/images/OWASP Security Champions Manifesto icon7.png" /><br>
 </p>
 ## 7. Promote knowledge sharing ##
-Coming soon...
+**What**
+Invest in the education of your Security Champions and encourage knowledge sharing within and outside the company.
+
+**Why**
+
+Security and technology are continuously evolving. Keeping up with developments requires a mindset of continuously learning. As Security Champions are the security front-runners in their teams and departments they are naturally interested in security related topics and want to learn more. They also know exactly what’s needed to improve their teams. By sharing their knowledge they can improve people, processes and technology. Any feedback during the knowledge sharing sessions can give valuable insights and strengthen the whole community. Additionally, it also ensures the security team is aware of the technology used within the organization and the (security) challenge it incorporates.
+
+**How**
+
+Promote a knowledge sharing culture, this is a mindset that values and rewards knowledge sharing among employees. Formal training programs can be rolled out using existing sharing and learning strategies within the company when available. Informal knowledge sharing via lunch sessions and pizza evenings can also be very valuable. Combine this with internal & external events to trigger the interest of your employees but make sure to rotate the speakers and topics to attract the biggest audience. Keep in mind that development teams are more likely to connect to the Security Champions that share something that’s relevant to daily activities.
+
+Gamification can be used to introduce a competitive element in the training and sharing knowledge. Capture the flag events are a great way to trigger the curiosity of your development teams.
 
 
 
@@ -180,7 +236,23 @@ Coming soon...
   <img src="assets/images/OWASP Security Champions Manifesto icon8.png" /><br>
 </p>
 ## 9. Invest in your champions ##
-Coming soon...
+**What**
+
+Invest in the personal growth and development of your Security Champions.
+
+**Why**
+
+Security doesn't come for free and requires investments. These investments also show the organization that security is taken seriously and boost the morale of the Security Champions. Without proper investments, the security program and security culture can quickly degrade.
+
+Security Champions spend a lot of effort in learning, sharing and promoting security in the organization and play an important role in the security culture of a company. Don’t take the motivation of the Security Champions for granted. The organization should invest in them to make sure they feel appreciated and facilitate their development. This ensures the Security Champions community stays healthy and continues to drive the security program.
+
+**How**
+
+By formally allocating time for security activities the Security Champions can combine security work with their other responsibilities. This investment will increase the quality and reduce the amount of rework and incidents.
+
+Allocate budget for webinars, conferences and training to ensure Security Champions can develop and gain new knowledge. These new insights can uncover vulnerabilities and will most likely improve the quality and throughput time of the deliverables. Internal workshops, sessions, training and events are a great way to share knowledge within the organization and get new people excited for security.
+ 
+Introduce job titles/specialized roles to give recognition to the Security Champions. Bonuses and promotion can be an additional incentive for employees to take security seriously and walk that extra mile.
 
 
 
@@ -188,6 +260,26 @@ Coming soon...
   <img src="assets/images/OWASP Security Champions Manifesto icon10.png" /><br>
 </p>
 ## 10. Anticipate personnel changes ##
-Coming soon...
+**What**
+
+The field of information security staffing has undergone significant changes over the last decade. The increased reliance on technology has made Information security skills essential in many industries, leading to a high demand for information security talent and a lot of job opportunities. This high demand and abundance of opportunities has impacted the turn-over rate of staff significantly and companies find it harder to retain information security talent. Therefore, organizations need to anticipate these personnel changes in their organization and their security champions program as they are unavoidable.
+
+**Why**
+
+Placing too high of a demand on a limited number of individuals as Security Champions increases the risk of a Security Champions program failing when certain, key, individuals leave the organization or change role within the organization.. Organizations need to acknowledge that people will leave, and ensure this does not bring the continuity of their Security Champions program in danger. 
+
+**How**
+
+In order to ensure consistency and continuity in the Security Champions the following, complementary, recommendations can be made: 
+
+* Have a reasonable ratio of champions to developers (e.g. 1 champion per 25 developers for large organizations);
+
+* Implement a T-shaped model for DevOps engineers, this means personnel possess a solid foundation in both development and operations, while also having the ability to contribute to other areas such as security (or automation, testing, etc). Reward personnel financially for their “additional” skill.  This is further highlighted in Principles 8 & 9. 
+
+* Ensure it is an officially recognized position in the organization and align with HR to adapt the recruitment & selection process towards hiring Security Champions; 
+
+* Run a continuous training and educations program for security champions, this enables new joiners to grow into the role of Security Champion;
+
+* Do not adopt the 1 Champion - 1 team model but group champions based on specialism or type of technology, e.g. have a pool of security champions with an expertise on container security or API Security and use them as a liaison and knowledge base of their specific topic. Create collaborative working groups where knowledge is actively transferred. When one security champion then leaves the organization the rest of the group is able to “absorb the blow” of this person leaving. 
 
 
