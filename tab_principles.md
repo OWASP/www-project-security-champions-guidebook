@@ -19,6 +19,7 @@ tags: Champions
 10. [Anticipate personnel changes](#10-anticipate-personnel-changes)
 
 ---
+
 <br>
 
 <p align="center">
@@ -45,7 +46,9 @@ Don’t limit yourself to internal recruitment. Highlight the importance of secu
 There are lots of opportunities to spark the passion of security champions. [This checklist](assets/artefacts/Security%20Champions%20Guide%20%2D%20Be%20Passionate%20About%20Security%20%2D%20Checklist.pdf) can be used to discover possible touch points and opportunities to do so.
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -81,7 +84,9 @@ A vision is easy to communicate and can be explained quickly. Don’t write seve
 Please note that it is not advised to create your vision in isolation. By involving as many key stakeholders as possible, you’ll enable people to take greater ownership of the vision and increase commitment. Think about IT Leads, POs, senior developers, and security leaders to be part of this vision creation process. Once the vision is in a good draft, give it a try by explaining and selling to within your organization (senior management, developer community etc).
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -112,7 +117,9 @@ Please see [this artifact](assets/artefacts/security%20champions%20(updated).ppt
 (p.s. In the included artifacts, clear disclaimers are included of the organization's context and why re-consideration is needed when copying and pasting the model to the user’s organization).
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -151,7 +158,9 @@ The projects teams’ personal experience and interviews we have conducted with 
 [This job vacancy](assets/artefacts/Security%20Champions%20Guide%20%2D%20Nominate%20a%20dedicated%20Captain%20%2D%20Job%20vacancy.pdf) can be used when looking to hire a dedicated Security Champion Captain.
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -183,7 +192,9 @@ Also involve the security champions in the processes of the core security team. 
 Measure and showcase the impact that the Security Champions and the program make. Demonstrate how their efforts have positively influenced security outcomes, highlighting the value they bring to the organization. This will build up the Security Champions’ trustworthiness and boost morale.
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -215,7 +226,9 @@ To create a community for a security champions program, the following should be 
 * Provide group training opportunities to foster the sense of community and encourage security champions to learn from each other. A security champion with a lot of knowledge in a specific area can serve as a teacher to others in the community. They can develop (online) courses, workshops, webinars, podcasts, newsletters, blogs, etc for the security champions community. The dedicated captain has a big role in enabling this and providing the resources necessary to achieve this.
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -237,7 +250,9 @@ Promote a knowledge sharing culture, this is a mindset that values and rewards k
 Gamification can be used to introduce a competitive element in the training and sharing knowledge. Capture the flag events are a great way to trigger the curiosity of your development teams.
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -247,7 +262,9 @@ Gamification can be used to introduce a competitive element in the training and 
 Coming soon...
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
@@ -273,7 +290,9 @@ Allocate budget for webinars, conferences and training to ensure Security Champi
 Introduce job titles/specialized roles to give recognition to the Security Champions. Bonuses and promotion can be an additional incentive for employees to take security seriously and walk that extra mile.
 
 <br>
+
 ---
+
 <br>
 
 <p align="center">
