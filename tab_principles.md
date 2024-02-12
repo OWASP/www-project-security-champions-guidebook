@@ -268,7 +268,7 @@ Coming soon...
 <br>
 
 <p align="center">
-  <img src="assets/images/OWASP Security Champions Manifesto icon8.png" /><br>
+  <img src="assets/images/OWASP Security Champions Manifesto icon9.png" /><br>
 </p>
 ## 9. Invest in your champions ##
 **What**
