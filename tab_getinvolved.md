@@ -15,4 +15,4 @@ It would be great to receive contributions in the form of (anonymized) presentat
 If you have a platform where we can talk about our Security Champions Program and would like to offer a collaboration or publication, reach out too! This really helps drive the message.
 
 # Updates
-Follow these pages to get instantly updated when we publish new things. We don’t have a set update schedule but will be publishing as often as possible when we improve things.
+Follow us on [LinkedIn](https://www.linkedin.com/company/owasp-security-champions-guide/about/) to get instantly notified on news and publications!
