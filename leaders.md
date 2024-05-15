@@ -6,4 +6,5 @@
 
 ### Contributors
 * Jaiya "JP" Preston
+* [Marisa Fagan](https://www.linkedin.com/in/marisafagan/)
 * Sebastiaan van der Meer
