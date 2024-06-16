@@ -1,0 +1,9 @@
+authors:
+  Admin:
+    name: Admin
+    description: Adminstrator
+    avatar: https://simpleicons.org/icons/materialformkdocs.svg
+  Robin:
+    name: Robin
+    description: Project lead
+    avatar: https://github.com/squidfunk.png
