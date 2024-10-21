@@ -8,4 +8,4 @@ tags: Champions
 ---
 ![OWASP Security Champions Guide logo](assets/images/OWASP Security Champions Guide logo SBS.png)
 
-View our content [here](https://securitychampions.owasp.org/).
+[View the OWASP Security Champions Guide here.](https://securitychampions.owasp.org/)
