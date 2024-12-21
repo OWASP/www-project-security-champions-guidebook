@@ -1,8 +1,8 @@
 ### Leaders
-* [Cheyenne Seur](mailto:cheyenne.seur@gmail.com)
-* [Irfaan Santoe](mailto:irfaan.santoe@owasp.org)
-* [Michael Bernhardt](michael.bernhardt@owasp.org)
-* [Robin van Loon](mailto:robin.vanloon@owasp.org)
+* [Cheyenne Seur](https://www.linkedin.com/in/cheyenneseur/)
+* [Irfaan Santoe](https://www.linkedin.com/in/irfaansantoe/)
+* [Michael Bernhardt](https://www.linkedin.com/in/michael-bernhardt-cyber/)
+* [Robin van Loon](https://www.linkedin.com/in/robin-van-loon-csslp-cissp-oswe/)
 
 ### Contributors
 * [Aleksandra Kornecka](https://www.linkedin.com/in/aleksandrakornecka/)
