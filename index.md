@@ -1,12 +1,10 @@
 ---
-
 layout: col-sidebar
 title: OWASP Security Champions Guide
 tags: Champions
 level: 2
 type: Documentation
 pitch: Our goal is to create an open-source, vendor-neutral guidebook for AppSec professionals to help them build and improve their own successful Security Champion programs.
-
 ---
 ![OWASP Security Champions Guide logo](assets/images/OWASP Security Champions Guide logo SBS.png)
 
@@ -21,6 +19,6 @@ We are looking for more participants to take part in this exciting project. What
   - A program leader
   - A CISO or executive in an organization with experience of Security Champions programs
 
-Watch our latest project update [here](https://www.youtube.com/watch?v=unQxiUuhujg&t=5947s) (11 minutes).
+Watch our latest project update [here](https://www.youtube.com/watch?v=EoxpHIgJLNM) (42 minutes).
 
 We’d love to hear your feedback and ideas. Check out the ‘Get Involved’ tab for more details.
