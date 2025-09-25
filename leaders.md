@@ -1,8 +1,12 @@
 ### Leaders
-* [Cheyenne Seur](https://www.linkedin.com/in/cheyenneseur/)
-* [Irfaan Santoe](https://www.linkedin.com/in/irfaansantoe/)
-* [Michael Bernhardt](https://www.linkedin.com/in/michael-bernhardt-cyber/)
-* [Robin van Loon](https://www.linkedin.com/in/robin-van-loon-csslp-cissp-oswe/)
+* [Cheyenne Seur](mailto:cheyenne.seur@owasp.org)
+* [LinkedIn: Cheyenne Seur](https://www.linkedin.com/in/cheyenneseur/)
+* [Irfaan Santoe](mailto:irfaan.santoe@owasp.org)
+* [LinkedIn: Irfaan Santoe](https://www.linkedin.com/in/irfaansantoe/)
+* [Michael Bernhardt](mailto:michael.bernhardt@owasp.org)
+* [LinkedIn: Michael Bernhardt](https://www.linkedin.com/in/michael-bernhardt-cyber/)
+* [Robin van Loon](mailto:robin.vanloon@owasp.org)
+* [LinkedIn: Robin van Loon](https://www.linkedin.com/in/robin-van-loon-csslp-cissp-oswe/)
 
 ### Contributors
 * [Adrian Sroka](https://www.linkedin.com/in/adriansroka/)
